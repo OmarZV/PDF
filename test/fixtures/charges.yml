@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Product: MyString
+  Amount: 1
+  Card_type: MyString
+  Card_last4: 1
+  user: one
+
+two:
+  Product: MyString
+  Amount: 1
+  Card_type: MyString
+  Card_last4: 1
+  user: two
